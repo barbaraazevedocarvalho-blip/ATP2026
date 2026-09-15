@@ -13,6 +13,5 @@ A primeira parte foi realizada no jogo **Turtle**. Depois de praticar a lógica 
 O objetivo na segunda parte foi resolver o nível 10 do jogo **Maze** do mesmo site, recorrendo ao raciocínio lógico para guiar a personagem até ao fim do labirinto.
 
 ## Lista de Resultados
-- <img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/a6878ca5-3e36-46a0-8a28-1e922a7e51c1" />
-
-<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/9fc9ad90-9eac-4b36-bea6-6591da86f415" />
+<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/f91811ec-ccbe-412a-95e4-6f3e20895308" />
+<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/e868551b-0a0a-4e76-9625-c16b9c02f480" />
