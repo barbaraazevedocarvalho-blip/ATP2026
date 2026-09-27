@@ -21,3 +21,4 @@ O ciclo termina quando o utilizador acerta, exibindo o número total de tentativ
 
 ## Resultados
 [TPC2 modalidade 1.py](https://github.com/user-attachments/files/32700014/TPC2.modalidade.1.py)
+[TPC2 modalidade 2.py](https://github.com/user-attachments/files/32700156/TPC2.modalidade.2.py)
