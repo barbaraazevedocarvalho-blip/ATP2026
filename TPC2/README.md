@@ -18,3 +18,6 @@ O programa contabiliza o número de tentativas e descarta entradas inválidas.
 O programa gera um número aleatório entre 1 e 100 recorrendo à função random.randint(1, 100).
 O utilizador introduz palpites sucessivos e o programa responde com "maior!" ou "menor!".
 O ciclo termina quando o utilizador acerta, exibindo o número total de tentativas utilizadas.
+
+## Resultados
+[TPC2 modalidade 1.py](https://github.com/user-attachments/files/32700014/TPC2.modalidade.1.py)
