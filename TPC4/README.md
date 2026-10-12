@@ -31,3 +31,6 @@ O menu apresenta as seguintes opções de operação:
 * Controlo de fluxo através de um ciclo principal para a repetição contínua do menu.
 * Implementação de validações para assegurar que a lista não se encontra vazia antes da execução de operações de cálculo ou pesquisa.
 * Utilização de estruturas de repetição (`for` e `while`) e condições (`if`, `elif`, `else`) para o processamento lógico dos dados.
+
+## Resultados
+[TPC4.py]
