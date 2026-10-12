@@ -1,4 +1,4 @@
-[TPC3.py](https://github.com/user-attachments/files/33335818/TPC3.py)## Manifesto do TPC1
+## Manifesto do TPC3
 
 Bárbara Azevedo Carvalho
 
