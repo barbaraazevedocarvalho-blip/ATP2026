@@ -33,4 +33,4 @@ O menu apresenta as seguintes opções de operação:
 * Utilização de estruturas de repetição (`for` e `while`) e condições (`if`, `elif`, `else`) para o processamento lógico dos dados.
 
 ## Resultados
-[TPC4.py]
+[TPC4.py](https://github.com/user-attachments/files/33331795/TPC4.py)
