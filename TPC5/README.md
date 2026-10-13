@@ -1,4 +1,4 @@
-[TPC5.py](https://github.com/user-attachments/files/33397988/TPC5.py)## Manifesto do TPC5
+## Manifesto do TPC5
 
 Bárbara Azevedo Carvalho
 
