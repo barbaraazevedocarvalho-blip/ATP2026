@@ -7,7 +7,6 @@ A114311
 <img width="1600" height="1155" alt="WhatsApp Image 2026-09-15 at 22 41 29" src="https://github.com/user-attachments/assets/f2db256c-b5ef-4305-b323-c3d91eaecd23" />
 
 ## Resumo
-## Resumo
 O TPC6 consistiu no desenvolvimento de uma aplicação em Python para gestão e análise de dados meteorológicos. 
 O programa permite carregar e guardar registos de temperatura e precipitação em ficheiros de texto, calcular médias, amplitudes térmicas, valores extremos e sequências de dias chuvosos. 
 Inclui ainda a visualização de gráficos das temperaturas e da precipitação com a biblioteca `matplotlib`, tudo acessível através de um menu interativo de linha de comandos.
