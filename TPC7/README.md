@@ -1,4 +1,4 @@
-## Manifesto do TPC6
+## Manifesto do TPC7
 
 Bárbara Azevedo Carvalho
 
